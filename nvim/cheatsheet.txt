@@ -1,0 +1,23 @@
+# oldmerkum cheatsheet
+
+## custom
+Leader is space | <leader>
+Open netrw file explorer remap | <leader>pv
+
+## telescope
+Open telescope search | <leader>pf
+Grep files for string | <leader>ps
+
+## harpoon
+Toggle harpoon menu | <C-e>
+Add file to harpoon | <leader>a
+Jump to file 1 | <C-h>
+Jump to file 2 | <C-t>
+Jump to file 3 | <C-n>
+Jump to file 4 | <C-s>
+
+## undotree
+Toggle undotree view | <leader>u
+
+## fugitive
+View git status | <leader>gs

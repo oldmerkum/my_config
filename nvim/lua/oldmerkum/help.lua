@@ -1,0 +1,16 @@
+
+-- 'O' key to start insert above current line
+--
+-- f key then character to search current line for character
+-- r key then another key to replace current character
+-- V key then y p to copy line, then paste it below current one
+-- c then t then character to delete up to (not including) that character
+-- c then i then w to delete current word
+-- C delete everything to end of line
+-- :s/orginal/new/g change all orginal to new on line
+-- ctrl-a increment number on line
+-- P paste above cursor
+--
+-- while in packer.lua use :PackerSync to sync packages
+--
+-- Use :so to source current file
